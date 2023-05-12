@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <!-- <header>
+        <img src="Free_Sample_By_Wix.jpg" alt="err0r" width="120px">
+        <h1>Pragati's Website</h1>
+    </header> -->
+    <nav>
+        <img src="Free_Sample_By_Wix.jpg" alt="err0r" width="120px">
+        <ul id="1">
+            <li> <a href="#">Home</a> </li>
+            <li> <a href="#">About Us</a> </li>
+            <li> <a href="#">Courses</a> </li>
+            <li> <a href="#">Study Material</a> </li>
+            <li> <a href="#">Contact Us</a> </li>
+            <li> <a href="#">Login/Sign-up</a> </li>
+        </ul>
+    </nav>
+    <section>
+            <h1>STUDY MATERIAL</h1>
+            <a href="#"><img src="gate.jpeg" alt="error" width="30%"></a>
+            <a href="#"><img src="gre.jpeg" alt="error" width="30%"></a>
+            <a href="#"><img src="cat.jpeg" alt="error" width="30%"></a>
+            <a href="#"><img src="upsc.jpeg" alt="error" width="30%"></a>
+            <a href="#"><img src="gmat.jpeg" alt="error" width="30%"></a>
+            <a href="#"><img src="ies.jpeg" alt="error" width="30%"></a>
+    </section>
+    <section>
+        <h1>Founder</h1>
+        <img src="IMG_20220426_191838_032.webp" alt="error" >
+        <h3>PRAGATI YADAV <br></h3>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et, sapiente illum, reprehenderit soluta quisquam saepe ut expedita eius nihil vero quis debitis. In autem eaque minus ullam sit ipsum consequatur? Quidem dolores, sunt saepe nam possimus ullam delectus ea voluptas inventore nostrum expedita. Tenetur, dignissimos animi? Nesciunt quisquam ut sed? Ducimus, commodi accusantium. Dignissimos iure dicta, iste, aliquid earum modi fugit voluptates quod sunt quam sequi tempore! Vitae neque velit error similique tempore mollitia dolore harum accusamus laborum. Assumenda eos possimus eaque doloribus est dolore eum impedit perferendis eligendi quia saepe laborum autem, obcaecati non vero quaerat ipsum necessitatibus incidunt ullam. Ut qui molestias voluptate perferendis eius, eaque adipisci nam tempora ad beatae tenetur impedit! Adipisci laborum praesentium dolorum commodi eos cupiditate ea. Laborum, ipsam officiis quasi vel deserunt voluptates molestiae debitis perspiciatis molestias! Beatae non nisi sed enim sapiente quia debitis voluptate excepturi fugit minima provident odio dolor tempore at sunt tempora quibusdam ducimus dicta, repellendus pariatur, doloribus ipsa. Minima asperiores debitis esse quaerat ab reprehenderit eligendi sequi quam non possimus omnis vitae, quidem ratione maiores quasi corrupti. Obcaecati totam pariatur accusamus quae! Aliquam beatae, similique architecto nesciunt possimus dicta ea nemo iure reiciendis magni. Iste delectus, quos necessitatibus voluptates nisi dolorum reiciendis tempore quibusdam quis maxime dolor mollitia vel error accusamus minima ipsa reprehenderit expedita, earum nihil rem ullam alias ex veritatis? Tempora dolorem totam rem dicta dolores autem rerum repellendus sit mollitia maxime quibusdam ratione quas culpa, fugit laborum assumenda quae pariatur, modi at ducimus cupiditate dolor nobis nostrum? Perspiciatis, nihil! Rerum, corrupti et ipsam a molestias iusto incidunt numquam deserunt unde ipsum distinctio temporibus libero assumenda provident id aspernatur quis fugit eius similique, pariatur corporis porro enim blanditiis quasi? Corporis, laborum. Reiciendis voluptates magni praesentium quo labore officiis ducimus asperiores ipsum sapiente odit commodi, eius perferendis!</p><br><br>
+    </section>
+    <footer>
+         <a href="#">FAQ</a>
+         <a href="#">Refund Policy</a>
+         <a href="#">2023|Pragati's Website</a>
+    </footer>
+</body>
+</html>
